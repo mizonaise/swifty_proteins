@@ -1,0 +1,765 @@
+{
+    "H": {
+        "name": "Hydrogen",
+        "Jmol": "FFFFFF",
+        "Rasmol": "FFFFFF",
+        "discoverd_by": "Henry Cavendish ",
+        "phase": "Gas"
+    },
+    "HE": {
+        "name": "Helium",
+        "Jmol": "D9FFFF",
+        "Rasmol": "FFC0CB",
+        "discoverd_by": "Pierre Janssen ",
+        "phase": "Gas"
+    },
+    "LI": {
+        "name": "Lithium",
+        "Jmol": "CC80FF",
+        "Rasmol": "B22222",
+        "discoverd_by": "Johan August Arfwedson ",
+        "phase": "Solid"
+    },
+    "BE": {
+        "name": "Beryllium",
+        "Jmol": "C2FF00",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Louis Nicolas Vauquelin ",
+        "phase": "Solid"
+    },
+    "B": {
+        "name": "Boron",
+        "Jmol": "FFB5B5",
+        "Rasmol": "00FF00",
+        "discoverd_by": "Joseph Louis Gay-Lussac ",
+        "phase": "Solid"
+    },
+    "C": {
+        "name": "Carbon",
+        "Jmol": "909090",
+        "Rasmol": "C8C8C8",
+        "discoverd_by": "Ancient Egypt ",
+        "phase": "Solid"
+    },
+    "N": {
+        "name": "Nitrogen",
+        "Jmol": "3050F8",
+        "Rasmol": "8F8FFF",
+        "discoverd_by": "Daniel Rutherford ",
+        "phase": "Gas"
+    },
+    "O": {
+        "name": "Oxygen",
+        "Jmol": "FF0D0D",
+        "Rasmol": "F00000",
+        "discoverd_by": "Carl Wilhelm Scheele ",
+        "phase": "Gas"
+    },
+    "F": {
+        "name": "Fluorine",
+        "Jmol": "90E050",
+        "Rasmol": "DAA520",
+        "discoverd_by": "André-Marie Ampère ",
+        "phase": "Gas"
+    },
+    "NE": {
+        "name": "Neon",
+        "Jmol": "B3E3F5",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Morris Travers ",
+        "phase": "Gas"
+    },
+    "NA": {
+        "name": "Sodium",
+        "Jmol": "AB5CF2",
+        "Rasmol": "0000FF",
+        "discoverd_by": "Humphry Davy ",
+        "phase": "Solid"
+    },
+    "MG": {
+        "name": "Magnesium",
+        "Jmol": "8AFF00",
+        "Rasmol": "228B22",
+        "discoverd_by": "Joseph Black ",
+        "phase": "Solid"
+    },
+    "AL": {
+        "name": "Aluminum",
+        "Jmol": "BFA6A6",
+        "Rasmol": "808090",
+        "discoverd_by": "null ",
+        "phase": "Solid"
+    },
+    "SI": {
+        "name": "Silicon",
+        "Jmol": "F0C8A0",
+        "Rasmol": "DAA520",
+        "discoverd_by": "Jöns Jacob Berzelius ",
+        "phase": "Solid"
+    },
+    "P": {
+        "name": "Phosphorus",
+        "Jmol": "FF8000",
+        "Rasmol": "FFA500",
+        "discoverd_by": "Hennig Brand ",
+        "phase": "Solid"
+    },
+    "S": {
+        "name": "Sulfur",
+        "Jmol": "FFFF30",
+        "Rasmol": "FFC832",
+        "discoverd_by": "Ancient china ",
+        "phase": "Solid"
+    },
+    "CL": {
+        "name": "Chlorine",
+        "Jmol": "1FF01F",
+        "Rasmol": "00FF00",
+        "discoverd_by": "Carl Wilhelm Scheele ",
+        "phase": "Gas"
+    },
+    "AR": {
+        "name": "Argon",
+        "Jmol": "80D1E3",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Lord Rayleigh ",
+        "phase": "Gas"
+    },
+    "K": {
+        "name": "Potassium",
+        "Jmol": "8F40D4",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Humphry Davy ",
+        "phase": "Solid"
+    },
+    "CA": {
+        "name": "Calcium",
+        "Jmol": "3DFF00",
+        "Rasmol": "808090",
+        "discoverd_by": "Humphry Davy ",
+        "phase": "Solid"
+    },
+    "SC": {
+        "name": "Scandium",
+        "Jmol": "E6E6E6",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Lars Fredrik Nilson ",
+        "phase": "Solid"
+    },
+    "TI": {
+        "name": "Titanium",
+        "Jmol": "BFC2C7",
+        "Rasmol": "808090",
+        "discoverd_by": "William Gregor ",
+        "phase": "Solid"
+    },
+    "V": {
+        "name": "Vanadium",
+        "Jmol": "A6A6AB",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Andrés Manuel del Río ",
+        "phase": "Solid"
+    },
+    "CR": {
+        "name": "Chromium",
+        "Jmol": "8A99C7",
+        "Rasmol": "808090",
+        "discoverd_by": "Louis Nicolas Vauquelin ",
+        "phase": "Solid"
+    },
+    "MN": {
+        "name": "Manganese",
+        "Jmol": "9C7AC7",
+        "Rasmol": "808090",
+        "discoverd_by": "Torbern Olof Bergman ",
+        "phase": "Solid"
+    },
+    "FE": {
+        "name": "Iron",
+        "Jmol": "E06633",
+        "Rasmol": "FFA500",
+        "discoverd_by": "5000 BC ",
+        "phase": "Solid"
+    },
+    "CO": {
+        "name": "Cobalt",
+        "Jmol": "F090A0",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Georg Brandt ",
+        "phase": "Solid"
+    },
+    "NI": {
+        "name": "Nickel",
+        "Jmol": "50D050",
+        "Rasmol": "A52A2A",
+        "discoverd_by": "Axel Fredrik Cronstedt ",
+        "phase": "Solid"
+    },
+    "CU": {
+        "name": "Copper",
+        "Jmol": "C88033",
+        "Rasmol": "A52A2A",
+        "discoverd_by": "Middle East ",
+        "phase": "Solid"
+    },
+    "ZN": {
+        "name": "Zinc",
+        "Jmol": "7D80B0",
+        "Rasmol": "A52A2A",
+        "discoverd_by": "India ",
+        "phase": "Solid"
+    },
+    "GA": {
+        "name": "Gallium",
+        "Jmol": "C28F8F",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Lecoq de Boisbaudran ",
+        "phase": "Solid"
+    },
+    "GE": {
+        "name": "Germanium",
+        "Jmol": "668F8F",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Clemens Winkler ",
+        "phase": "Solid"
+    },
+    "AS": {
+        "name": "Arsenic",
+        "Jmol": "BD80E3",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Bronze Age ",
+        "phase": "Solid"
+    },
+    "SE": {
+        "name": "Selenium",
+        "Jmol": "FFA100",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Jöns Jakob Berzelius ",
+        "phase": "Solid"
+    },
+    "BR": {
+        "name": "Bromine",
+        "Jmol": "A62929",
+        "Rasmol": "A52A2A",
+        "discoverd_by": "Antoine Jérôme Balard ",
+        "phase": "Liquid"
+    },
+    "KR": {
+        "name": "Krypton",
+        "Jmol": "5CB8D1",
+        "Rasmol": "FF1493",
+        "discoverd_by": "William Ramsay ",
+        "phase": "Gas"
+    },
+    "RB": {
+        "name": "Rubidium",
+        "Jmol": "702EB0",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Robert Bunsen ",
+        "phase": "Solid"
+    },
+    "SR": {
+        "name": "Strontium",
+        "Jmol": "00FF00",
+        "Rasmol": "FF1493",
+        "discoverd_by": "William Cruickshank (chemist) ",
+        "phase": "Solid"
+    },
+    "Y": {
+        "name": "Yttrium",
+        "Jmol": "94FFFF",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Johan Gadolin ",
+        "phase": "Solid"
+    },
+    "ZR": {
+        "name": "Zirconium",
+        "Jmol": "94E0E0",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Martin Heinrich Klaproth ",
+        "phase": "Solid"
+    },
+    "NB": {
+        "name": "Niobium",
+        "Jmol": "73C2C9",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Charles Hatchett ",
+        "phase": "Solid"
+    },
+    "MO": {
+        "name": "Molybdenum",
+        "Jmol": "54B5B5",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Carl Wilhelm Scheele ",
+        "phase": "Solid"
+    },
+    "TC": {
+        "name": "Technetium",
+        "Jmol": "3B9E9E",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Emilio Segrè ",
+        "phase": "Solid"
+    },
+    "RU": {
+        "name": "Ruthenium",
+        "Jmol": "248F8F",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Karl Ernst Claus ",
+        "phase": "Solid"
+    },
+    "RH": {
+        "name": "Rhodium",
+        "Jmol": "0A7D8C",
+        "Rasmol": "FF1493",
+        "discoverd_by": "William Hyde Wollaston ",
+        "phase": "Solid"
+    },
+    "PD": {
+        "name": "Palladium",
+        "Jmol": "006985",
+        "Rasmol": "FF1493",
+        "discoverd_by": "William Hyde Wollaston ",
+        "phase": "Solid"
+    },
+    "AG": {
+        "name": "Silver",
+        "Jmol": "C0C0C0",
+        "Rasmol": "808090",
+        "discoverd_by": "unknown, before 5000 BC ",
+        "phase": "Solid"
+    },
+    "CD": {
+        "name": "Cadmium",
+        "Jmol": "FFD98F",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Karl Samuel Leberecht Hermann ",
+        "phase": "Solid"
+    },
+    "IN": {
+        "name": "Indium",
+        "Jmol": "A67573",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Ferdinand Reich ",
+        "phase": "Solid"
+    },
+    "SN": {
+        "name": "Tin",
+        "Jmol": "668080",
+        "Rasmol": "FF1493",
+        "discoverd_by": "unknown, before 3500 BC ",
+        "phase": "Solid"
+    },
+    "SB": {
+        "name": "Antimony",
+        "Jmol": "9E63B5",
+        "Rasmol": "FF1493",
+        "discoverd_by": "unknown, before 3000 BC ",
+        "phase": "Solid"
+    },
+    "TE": {
+        "name": "Tellurium",
+        "Jmol": "D47A00",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Franz-Joseph Müller von Reichenstein ",
+        "phase": "Solid"
+    },
+    "I": {
+        "name": "Iodine",
+        "Jmol": "940094",
+        "Rasmol": "A020F0",
+        "discoverd_by": "Bernard Courtois ",
+        "phase": "Solid"
+    },
+    "XE": {
+        "name": "Xenon",
+        "Jmol": "429EB0",
+        "Rasmol": "FF1493",
+        "discoverd_by": "William Ramsay ",
+        "phase": "Gas"
+    },
+    "CS": {
+        "name": "Cesium",
+        "Jmol": "57178F",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Robert Bunsen ",
+        "phase": "Solid"
+    },
+    "BA": {
+        "name": "Barium",
+        "Jmol": "00C900",
+        "Rasmol": "FFA500",
+        "discoverd_by": "Carl Wilhelm Scheele ",
+        "phase": "Solid"
+    },
+    "LA": {
+        "name": "Lanthanum",
+        "Jmol": "70D4FF",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Carl Gustaf Mosander ",
+        "phase": "Solid"
+    },
+    "CE": {
+        "name": "Cerium",
+        "Jmol": "FFFFC7",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Martin Heinrich Klaproth ",
+        "phase": "Solid"
+    },
+    "PR": {
+        "name": "Praseodymium",
+        "Jmol": "D9FFC7",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Carl Auer von Welsbach ",
+        "phase": "Solid"
+    },
+    "ND": {
+        "name": "Neodymium",
+        "Jmol": "C7FFC7",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Carl Auer von Welsbach ",
+        "phase": "Solid"
+    },
+    "PM": {
+        "name": "Promethium",
+        "Jmol": "A3FFC7",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Chien Shiung Wu ",
+        "phase": "Solid"
+    },
+    "SM": {
+        "name": "Samarium",
+        "Jmol": "8FFFC7",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Lecoq de Boisbaudran ",
+        "phase": "Solid"
+    },
+    "EU": {
+        "name": "Europium",
+        "Jmol": "61FFC7",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Eugène-Anatole Demarçay ",
+        "phase": "Solid"
+    },
+    "GD": {
+        "name": "Gadolinium",
+        "Jmol": "45FFC7",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Jean Charles Galissard de Marignac ",
+        "phase": "Solid"
+    },
+    "TB": {
+        "name": "Terbium",
+        "Jmol": "30FFC7",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Carl Gustaf Mosander ",
+        "phase": "Solid"
+    },
+    "DY": {
+        "name": "Dysprosium",
+        "Jmol": "1FFFC7",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Lecoq de Boisbaudran ",
+        "phase": "Solid"
+    },
+    "HO": {
+        "name": "Holmium",
+        "Jmol": "00FF9C",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Marc Delafontaine ",
+        "phase": "Solid"
+    },
+    "ER": {
+        "name": "Erbium",
+        "Jmol": "00E675",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Carl Gustaf Mosander ",
+        "phase": "Solid"
+    },
+    "TM": {
+        "name": "Thulium",
+        "Jmol": "00D452",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Per Teodor Cleve ",
+        "phase": "Solid"
+    },
+    "YB": {
+        "name": "Ytterbium",
+        "Jmol": "00BF38",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Jean Charles Galissard de Marignac ",
+        "phase": "Solid"
+    },
+    "LU": {
+        "name": "Lutetium",
+        "Jmol": "00AB24",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Georges Urbain ",
+        "phase": "Solid"
+    },
+    "HF": {
+        "name": "Hafnium",
+        "Jmol": "4DC2FF",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Dirk Coster ",
+        "phase": "Solid"
+    },
+    "TA": {
+        "name": "Tantalum",
+        "Jmol": "4DA6FF",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Anders Gustaf Ekeberg ",
+        "phase": "Solid"
+    },
+    "W": {
+        "name": "Tungsten",
+        "Jmol": "2194D6",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Carl Wilhelm Scheele ",
+        "phase": "Solid"
+    },
+    "RE": {
+        "name": "Rhenium",
+        "Jmol": "267DAB",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Masataka Ogawa ",
+        "phase": "Solid"
+    },
+    "OS": {
+        "name": "Osmium",
+        "Jmol": "266696",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Smithson Tennant ",
+        "phase": "Solid"
+    },
+    "IR": {
+        "name": "Iridium",
+        "Jmol": "175487",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Smithson Tennant ",
+        "phase": "Solid"
+    },
+    "PT": {
+        "name": "Platinum",
+        "Jmol": "D0D0E0",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Antonio de Ulloa ",
+        "phase": "Solid"
+    },
+    "AU": {
+        "name": "Gold",
+        "Jmol": "FFD123",
+        "Rasmol": "DAA520",
+        "discoverd_by": "Middle East ",
+        "phase": "Solid"
+    },
+    "HG": {
+        "name": "Mercury",
+        "Jmol": "B8B8D0",
+        "Rasmol": "FF1493",
+        "discoverd_by": "unknown, before 2000 BCE ",
+        "phase": "Liquid"
+    },
+    "TL": {
+        "name": "Thallium",
+        "Jmol": "A6544D",
+        "Rasmol": "FF1493",
+        "discoverd_by": "William Crookes ",
+        "phase": "Solid"
+    },
+    "PB": {
+        "name": "Lead",
+        "Jmol": "575961",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Middle East ",
+        "phase": "Solid"
+    },
+    "BI": {
+        "name": "Bismuth",
+        "Jmol": "9E4FB5",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Claude François Geoffroy ",
+        "phase": "Solid"
+    },
+    "PO": {
+        "name": "Polonium",
+        "Jmol": "AB5C00",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Pierre Curie ",
+        "phase": "Solid"
+    },
+    "AT": {
+        "name": "Astatine",
+        "Jmol": "754F45",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Dale R. Corson ",
+        "phase": "Solid"
+    },
+    "RN": {
+        "name": "Radon",
+        "Jmol": "428296",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Friedrich Ernst Dorn ",
+        "phase": "Gas"
+    },
+    "FR": {
+        "name": "Francium",
+        "Jmol": "420066",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Marguerite Perey ",
+        "phase": "Solid"
+    },
+    "RA": {
+        "name": "Radium",
+        "Jmol": "007D00",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Pierre Curie ",
+        "phase": "Solid"
+    },
+    "AC": {
+        "name": "Actinium",
+        "Jmol": "70ABFA",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Friedrich Oskar Giesel ",
+        "phase": "Solid"
+    },
+    "TH": {
+        "name": "Thorium",
+        "Jmol": "00BAFF",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Jöns Jakob Berzelius ",
+        "phase": "Solid"
+    },
+    "PA": {
+        "name": "Protactinium",
+        "Jmol": "00A1FF",
+        "Rasmol": "FF1493",
+        "discoverd_by": "William Crookes ",
+        "phase": "Solid"
+    },
+    "U": {
+        "name": "Uranium",
+        "Jmol": "008FFF",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Martin Heinrich Klaproth ",
+        "phase": "Solid"
+    },
+    "NP": {
+        "name": "Neptunium",
+        "Jmol": "0080FF",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Edwin McMillan ",
+        "phase": "Solid"
+    },
+    "PU": {
+        "name": "Plutonium",
+        "Jmol": "006BFF",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Glenn T. Seaborg ",
+        "phase": "Solid"
+    },
+    "AM": {
+        "name": "Americium",
+        "Jmol": "545CF2",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Glenn T. Seaborg ",
+        "phase": "Solid"
+    },
+    "CM": {
+        "name": "Curium",
+        "Jmol": "785CE3",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Glenn T. Seaborg ",
+        "phase": "Solid"
+    },
+    "BK": {
+        "name": "Berkelium",
+        "Jmol": "8A4FE3",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Lawrence Berkeley National Laboratory ",
+        "phase": "Solid"
+    },
+    "CF": {
+        "name": "Californium",
+        "Jmol": "A136D4",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Lawrence Berkeley National Laboratory ",
+        "phase": "Solid"
+    },
+    "ES": {
+        "name": "Einsteinium",
+        "Jmol": "B31FD4",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Lawrence Berkeley National Laboratory ",
+        "phase": "Solid"
+    },
+    "FM": {
+        "name": "Fermium",
+        "Jmol": "B31FBA",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Lawrence Berkeley National Laboratory ",
+        "phase": "Solid"
+    },
+    "MD": {
+        "name": "Mendelevium",
+        "Jmol": "B30DA6",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Lawrence Berkeley National Laboratory ",
+        "phase": "Solid"
+    },
+    "NO": {
+        "name": "Nobelium",
+        "Jmol": "BD0D87",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Joint Institute for Nuclear Research ",
+        "phase": "Solid"
+    },
+    "LR": {
+        "name": "Lawrencium",
+        "Jmol": "C70066",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Lawrence Berkeley National Laboratory ",
+        "phase": "Solid"
+    },
+    "RF": {
+        "name": "Rutherfordium",
+        "Jmol": "CC0059",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Joint Institute for Nuclear Research ",
+        "phase": "Solid"
+    },
+    "DB": {
+        "name": "Dubnium",
+        "Jmol": "D1004F",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Joint Institute for Nuclear Research ",
+        "phase": "Solid"
+    },
+    "SG": {
+        "name": "Seaborgium",
+        "Jmol": "D90045",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Lawrence Berkeley National Laboratory ",
+        "phase": "Solid"
+    },
+    "BH": {
+        "name": "Bohrium",
+        "Jmol": "E00038",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Gesellschaft für Schwerionenforschung ",
+        "phase": "Solid"
+    },
+    "HS": {
+        "name": "Hassium",
+        "Jmol": "E6002E",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Gesellschaft für Schwerionenforschung ",
+        "phase": "Solid"
+    },
+    "MT": {
+        "name": "Meitnerium",
+        "Jmol": "EB0026",
+        "Rasmol": "FF1493",
+        "discoverd_by": "Gesellschaft für Schwerionenforschung ",
+        "phase": "Solid"
+    }
+}
